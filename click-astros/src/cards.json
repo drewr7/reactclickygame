@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Jose Altuve",
+        "image": "../player-images/JoseAltuve.jpg",
+        "count": 0
+    },
+    {
+        "id": 2,
+        "name": "Alex Bregman",
+        "image": "../player-images/AlexBregman.jpg",
+        "count": 0
+    },
+    {
+        "id": 3,
+        "name": "Yuli Gurriel",
+        "image": "../player-images/YuliGurriel.jpg",
+        "count": 0
+    },
+    {
+        "id": 4,
+        "name": "Carlos Correa",
+        "image": "../player-images/CarlosCorrea.jpg",
+        "count": 0
+    },
+    {
+        "id": 5,
+        "name": "George Springer",
+        "image": "../player-images/GeorgeSpringer.jpg",
+        "count": 0
+    },
+    {
+        "id": 6,
+        "name": "Michael Brantley",
+        "image": "../player-images/MichaelBrantley.jpg",
+        "count": 0
+    },
+    {
+        "id": 7,
+        "name": "Justin Verlander",
+        "image": "../player-images/JustinVerlander.jpg",
+        "count": 0
+    },
+    {
+        "id": 8,
+        "name": "Gerrit Cole",
+        "image": "../player-images/GerritCole.jpg",
+        "count": 0
+    },
+    {
+        "id": 9,
+        "name": "Yordan Alvarez",
+        "image": "../player-images/YordanAlvarez.jpg",
+        "count": 0
+    },
+    {
+        "id": 10,
+        "name": "Josh Reddick",
+        "image": "../player-images/JoshReddick.jpg",
+        "count": 0
+    },
+    {
+        "id": 11,
+        "name": "Jake Marisnick",
+        "image": "../player-images/JakeMarisnick.jpg",
+        "count": 0
+    },
+    {
+        "id": 12,
+        "name": "Roberto Osuna",
+        "image": "../player-images/RobertoOsuna.jpg",
+        "count": 0
+    }
+]
